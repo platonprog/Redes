@@ -1,12 +1,12 @@
 # Módulo 1 — Comunicación de Datos
 
 Capítulos
-- [Capítulo 0. Modelo de Comunicaciones](./capitulo0.md)
-- [Capítulo 1. Teoría de la Información](./capitulo1.md)
-- [Capítulo 2. Teoría de Señal](./capitulo2.md)
-- [Capítulo 3. Transmisión Digital](./capitulo3.md)
-- [Capítulo 4. Medios de Transmisión](./capitulo4.md)
-- [Capítulo 5. Limitaciones de la Transmisión Digital](./capitulo5.md)
+- [Capítulo 0. Modelo de Comunicaciones](./docs_modulo1_capitulo0_Version2.md)
+- [Capítulo 1. Teoría de la Información](./docs_modulo1_capitulo1_Version2.md)
+- [Capítulo 2. Teoría de Señal](./docs_modulo1_capitulo2_Version2.md)
+- [Capítulo 3. Transmisión Digital](./docs_modulo1_capitulo3_Version2.md)
+- [Capítulo 4. Medios de Transmisión](./docs_modulo1_capitulo4_Version2.md)
+- [Capítulo 5. Limitaciones de la Transmisión Digital](./docs_modulo1_capitulo5_Version2.md)
 
 Convenciones de unidades SI
 - Velocidades: bit/s (bps), símbolos/s (baud)
